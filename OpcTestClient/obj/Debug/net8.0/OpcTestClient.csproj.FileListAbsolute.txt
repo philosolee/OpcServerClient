@@ -1,0 +1,13 @@
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\bin\Debug\net8.0\Taro.OpcTestClient.Config.xml
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\bin\Debug\net8.0\OpcTestClient.deps.json
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\bin\Debug\net8.0\OpcTestClient.dll
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\bin\Debug\net8.0\OpcTestClient.pdb
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.csproj.AssemblyReference.cache
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.AssemblyInfoInputs.cache
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.AssemblyInfo.cs
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.csproj.CoreCompileInputs.cache
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.dll
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\refint\OpcTestClient.dll
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\OpcTestClient.pdb
+C:\src\Taro\Shelling-Control-API\ControlCentreAPI\OpcTestClient\obj\Debug\net8.0\ref\OpcTestClient.dll
